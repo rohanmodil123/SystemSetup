@@ -1,0 +1,16 @@
+== System Info ==
+
+Packages:
+
+neofetch neovim fortune-mod fortunes-off cowsay curl gnome-shell-extension-manager chrome-gnome-shell zathura latexmk gnome-tweaks
+
+
+
+Theming:
+
+https://github.com/vinceliuice/WhiteSur-gtk-theme
+
+" -d '~/TarApps/.themes' -t blue -s 180 -i ubuntu -N glassy -l "
+" ./tweaks.sh -g --no-darken
+
+
